@@ -1,19 +1,4 @@
-<!--
-**judsonc/judsonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 👋 Prazer em te ver, meu Nome é Judson 🤭🤭
+### 👋 Prazer em te ver, meu Nome é Judson
 
 <ul>
   <li> 🎓 Formado em Engenharia de Computação | UFRN </li>
@@ -24,7 +9,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### 👋 Hey, I am Judson 🤭🤭
+### 👋 Hey, I am Judson
 
 <ul>
   <li> 🎓 Computer Engineering | UFRN </li>
