@@ -18,11 +18,11 @@
   <li> 📚 I'm primally a Javascript/Typescript developer, but I can write Python, SQL, PHP, HTML/CSS. </li>
 </ul>
 
-<hr>
+<!-- <hr>
 
 ### 🛰️ Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judsonc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judsonc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <hr>
 
