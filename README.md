@@ -1,8 +1,15 @@
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+    <div id="badges">
+        <img src="https://komarev.com/ghpvc/?username=judsonc&style=for-the-badge&color=blue" alt=""/>
+    </div>
+</div>
+
 ### 👋 Prazer em te ver, meu Nome é Judson
 
 <ul>
   <li> 🎓 Formado em Engenharia de Computação | UFRN </li>
-  <li> 💼 Desenvolvedor Backend | Zrobank </li>
+  <li> 💼 Desenvolvedor Backend | Z.ro Bank </li>
   <li>📍 RN - Brasil </li>
   <li> 📚 Desenvolvo projetos utilizando Javascript/Typescript. Mas também tenho experiência com Python, SQL, PHP, HTML/CSS. </li>
 </ul>
@@ -13,7 +20,7 @@
 
 <ul>
   <li> 🎓 Computer Engineering | UFRN </li>
-  <li> 💼 Backend Developer | Zrobank </li>
+  <li> 💼 Backend Developer | Z.ro Bank </li>
   <li>📍 RN - Brasil </li>
   <li> 📚 I'm primally a Javascript/Typescript developer, but I can write Python, SQL, PHP, HTML/CSS. </li>
 </ul>
